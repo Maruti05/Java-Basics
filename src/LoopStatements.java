@@ -29,7 +29,7 @@ public class LoopStatements {
 
 		System.err.println("============================CONTINUE====================================");
 
-		for (int i = 0; i < 10; i++) {
+	/*	for (int i = 0; i < 10; i++) {
            System.out.println("Hiiii");
            if(i>3)
            {
@@ -37,6 +37,6 @@ public class LoopStatements {
            }
            System.err.println("Hello");
            
-		}
+		}*/
 	}
 }

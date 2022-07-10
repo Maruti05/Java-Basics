@@ -1,3 +1,4 @@
+package com.maruti.main;
 
 public class LoopStatements {
 	public static void main(String[] args) {
@@ -29,14 +30,11 @@ public class LoopStatements {
 
 		System.err.println("============================CONTINUE====================================");
 
-	/*	for (int i = 0; i < 10; i++) {
-           System.out.println("Hiiii");
-           if(i>3)
-           {
-        	   continue;
-           }
-           System.err.println("Hello");
-           
-		}*/
+		/*
+		 * for (int i = 0; i < 10; i++) { System.out.println("Hiiii"); if(i>3) {
+		 * continue; } System.err.println("Hello");
+		 * 
+		 * }
+		 */
 	}
 }

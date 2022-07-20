@@ -19,7 +19,7 @@ class Tester extends Employee{
 	String work;
 }
 
-
+//Hierarchical Inheritance-->Multiple Childs will acquires properties from single Parent
 public class HierarchicalInheritance {
 
 	
